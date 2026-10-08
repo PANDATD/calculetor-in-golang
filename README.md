@@ -1,2 +1,7 @@
-# calculetor-in-golang
-this is commnd line calculeeoter in go programming languge 
+# Calculator in Go
+
+A command-line calculator written as a Go practice project.
+
+## Author
+
+Tejas Dixit — https://tejasdixit.in
